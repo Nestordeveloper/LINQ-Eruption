@@ -1,0 +1,14 @@
+C:\Users\snela\Desktop\LINQEruption\bin\Debug\net7.0\LINQEruption.exe
+C:\Users\snela\Desktop\LINQEruption\bin\Debug\net7.0\LINQEruption.deps.json
+C:\Users\snela\Desktop\LINQEruption\bin\Debug\net7.0\LINQEruption.runtimeconfig.json
+C:\Users\snela\Desktop\LINQEruption\bin\Debug\net7.0\LINQEruption.dll
+C:\Users\snela\Desktop\LINQEruption\bin\Debug\net7.0\LINQEruption.pdb
+C:\Users\snela\Desktop\LINQEruption\obj\Debug\net7.0\LINQEruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snela\Desktop\LINQEruption\obj\Debug\net7.0\LINQEruption.AssemblyInfoInputs.cache
+C:\Users\snela\Desktop\LINQEruption\obj\Debug\net7.0\LINQEruption.AssemblyInfo.cs
+C:\Users\snela\Desktop\LINQEruption\obj\Debug\net7.0\LINQEruption.csproj.CoreCompileInputs.cache
+C:\Users\snela\Desktop\LINQEruption\obj\Debug\net7.0\LINQEruption.dll
+C:\Users\snela\Desktop\LINQEruption\obj\Debug\net7.0\refint\LINQEruption.dll
+C:\Users\snela\Desktop\LINQEruption\obj\Debug\net7.0\LINQEruption.pdb
+C:\Users\snela\Desktop\LINQEruption\obj\Debug\net7.0\LINQEruption.genruntimeconfig.cache
+C:\Users\snela\Desktop\LINQEruption\obj\Debug\net7.0\ref\LINQEruption.dll
